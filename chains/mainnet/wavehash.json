@@ -1,0 +1,15 @@
+{
+    "chain_name": "wavehash",
+    "api": ["https://lcd.wavehash.online"],
+    "rpc": ["https://rpc.wavehash.online"],
+    "sdk_version": "0.46.1",
+    "coin_type": "118",
+    "min_tx_fee": "3000",
+    "addr_prefix": "wavehash",
+    "logo": "/logos/wavehash.png",
+    "assets": [{
+        "base": "uwahax",
+        "symbol": "WAHAX",
+        "exponent": "6"
+    }]
+}
