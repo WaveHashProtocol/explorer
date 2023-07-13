@@ -16,21 +16,36 @@
         rel="noopener noreferrer"
         >Ping.pub</a
       >
+      &nbspForked by&nbsp;
+      <a
+        class="link link-primary no-underline"
+        href="https://github.com/WaveHashProtocol/"
+        target="_blank"
+        rel="noopener noreferrer"
+        >WaveHash Protocol</a
+      >
+
     </div>
     <div
       class="hidden md:!block"
     >
+    <a
+        class="link link-primary no-underline"
+        href="https://github.com/WaveHashProtocol/"
+        target="noopener noreferrer"
+        >WaveHashProtocol Github </a
+      >
       <a
         class="link link-primary no-underline mr-4"
         href="https://github.com/ping-pub/explorer/blob/master/LICENSE"
         target="noopener noreferrer"
-        >License</a
+        > License</a
       >
       <a
         class="link link-primary no-underline"
         href="https://github.com/ping-pub/explorer"
         target="noopener noreferrer"
-        >Github</a
+        >Ping.pub Github</a
       >
     </div>
   </footer>
