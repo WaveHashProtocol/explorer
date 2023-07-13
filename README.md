@@ -1,12 +1,8 @@
-<div align="center">
 
-![wavehash](./public/logo.svg)
+![wavehash](./src/assets/logo.svg) WaveHash Explorer
 
-<h1>WaveHash Explorer</h1>
 
 **WaveHash Explorer is not only an explorer but also a wallet and more ... 🛠**
-
-</div>
 
 `WaveHash Explorer` is a light explorer for Cosmos-based Blockchains.  https://explorer.wavehash.online .
 
