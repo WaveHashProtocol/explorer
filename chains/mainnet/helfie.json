@@ -1,0 +1,15 @@
+{
+    "chain_name": "helfie",
+    "api": ["http://65.2.4.210:26657/"],
+    "rpc": ["http://65.2.4.210:1317/"],
+    "sdk_version": "0.46.1",
+    "coin_type": "118",
+    "min_tx_fee": "3000",
+    "addr_prefix": "helfie",
+    "logo": "/logos/helfie.png",
+    "assets": [{
+        "base": "uhlfix",
+        "symbol": "HLFIX",
+        "exponent": "6"
+    }]
+}
