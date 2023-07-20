@@ -1,7 +1,7 @@
 {
     "chain_name": "helfie",
-    "api": ["http://65.2.4.210:26657/"],
-    "rpc": ["http://65.2.4.210:1317/"],
+    "api": ["https://rpc_testnet.helfie.store/"],
+    "rpc": ["https://lcd_testnet.helfie.store/"],
     "sdk_version": "0.46.1",
     "coin_type": "118",
     "min_tx_fee": "3000",
