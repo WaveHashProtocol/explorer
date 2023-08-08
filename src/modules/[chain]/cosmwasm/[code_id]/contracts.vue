@@ -164,6 +164,12 @@ const result = ref('');
                 >
                 {{ $t('cosmwasm.btn_execute') }}
                 </label>
+                <RouterLink
+                  :to="`transactions?contract=${v}`"
+                  class="btn btn-primary btn-xs text-xs"
+                >
+                {{ $t('cosmwasm.btn_transactions') }}
+                </RouterLink>
               </td>
             </tr>
           </tbody>
